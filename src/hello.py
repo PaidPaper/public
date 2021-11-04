@@ -1,2 +1,2 @@
-# new file
+# a simple hello script
 print("Hello")
