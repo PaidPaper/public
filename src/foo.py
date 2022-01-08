@@ -1,3 +1,3 @@
 class Foo:
   def hello():
-    print("Hello")
+    print("Hello foo")
