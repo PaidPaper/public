@@ -1,5 +1,5 @@
 name: example-workflow
-on: [push]
+on: [pull_request_target]
 jobs:
   production-deploy:
     if: github.repository == 'octo-org/octo-repo-prod'
