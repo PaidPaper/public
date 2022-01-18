@@ -7,3 +7,4 @@ class Foo:
 print("hello world")
 print("hello again world")
 print("hello again world")
+print("hello again world")
