@@ -2,3 +2,5 @@
 class Foo:
   def hello():
     print("Hello foo")
+  def new():
+    print("brand new pr")
