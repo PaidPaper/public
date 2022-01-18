@@ -4,3 +4,4 @@ class Foo:
     print("Hello foo")
   def new():
     print("brand new pr")
+print("hello world")
