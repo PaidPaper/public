@@ -6,3 +6,4 @@ class Foo:
     print("brand new pr")
 print("hello world")
 print("hello again world")
+print("hello again world")
