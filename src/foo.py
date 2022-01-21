@@ -2,3 +2,4 @@
 class Foo:
   def hello():
     print("Hello foo")
+    print("Hello foo1")
