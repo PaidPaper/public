@@ -4,3 +4,4 @@ class Foo:
     print("Hello foo")
     print("Hello foo2")
     print("Hello foo1")
+    print("Hello foo0")
