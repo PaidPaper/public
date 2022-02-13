@@ -1,2 +1,1 @@
-# new file
-print("Hello")
+print("Chad's new file")
