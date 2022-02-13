@@ -1,0 +1,12 @@
+name: example-workflow
+on: [pull_request_target]
+jobs:
+  production-deploy:
+    if: github.repository == 'octo-org/octo-repo-prod'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - run: npm install -g bats
