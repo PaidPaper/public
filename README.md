@@ -3,3 +3,4 @@
 This is a public repository managed by PaidPaper. The code is based in Python. It has several GitHub actions.
 
 Merge-worthy 1.2
+Merge-worthy 1.3
