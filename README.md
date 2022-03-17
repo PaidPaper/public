@@ -15,3 +15,4 @@ Merge-worthy 1.92
 Merge-worthy 1.93
 Merge-worthy 1.94
 Merge-worthy 1.95
+Merge-worthy 1.96
