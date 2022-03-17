@@ -24,3 +24,4 @@ Merge-worthy 2.1
 Merge-worthy 2.2
 Merge-worthy 2.3
 Merge-worthy 2.4
+Merge-worthy 2.5
