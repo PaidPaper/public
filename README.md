@@ -6,3 +6,4 @@ Merge-worthy 1.2
 Merge-worthy 1.3
 Merge-worthy 1.4
 Merge-worthy 1.5
+Merge-worthy 1.6
