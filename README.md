@@ -29,3 +29,4 @@ Merge-worthy 2.6
 Merge-worthy 2.71
 Merge-worthy 2.72
 Merge-worthy 2.73
+Merge-worthy 2.74
