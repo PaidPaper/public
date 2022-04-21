@@ -43,4 +43,4 @@ print("WANDA 4")
 0.8.6 Testing 1
 0.8.6 Testing 1 - continued (old)
 0.8.6 Preflight
-Refactor 1.0
+Refactor 1.0 - check list
