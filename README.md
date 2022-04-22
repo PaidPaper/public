@@ -45,4 +45,4 @@ print("WANDA 4")
 0.8.6 Preflight
 Refactor 1.0 - Retry
 0.8.7 Checklist - 1 - recommit
-0.8.7 Retest 1
+0.8.7 Retest 1 - recommit
