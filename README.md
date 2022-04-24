@@ -3,3 +3,4 @@
 This is a public repository managed by PaidPaper. The code is based in Python. It has several GitHub actions.
 
 0.8.6 - 2.6
+0.8.7 - 1 
