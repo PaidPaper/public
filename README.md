@@ -12,3 +12,4 @@ Hi
 # 20 Jul Non-bug
 # 20 Jul On-Assign
 # 20 Jul On-ReviewRequest
+# 20 Jul Generic
