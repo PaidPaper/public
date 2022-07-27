@@ -17,3 +17,5 @@ Changes
 
 
 Changes July 25
+Error tests July 27-2
+
