@@ -6,9 +6,3 @@ test
 
 smoke test p2
 test user
-test 1.2
-12212
-1111111
-12321
-111111111
-123
