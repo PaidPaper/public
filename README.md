@@ -8,3 +8,4 @@ smoke test p2
 test user
 test
 123
+1234
