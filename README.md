@@ -8,3 +8,5 @@ smoke test p2
 test
 test
 test
+
+Message Type 1
