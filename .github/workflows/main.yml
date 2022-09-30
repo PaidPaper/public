@@ -55,5 +55,3 @@ jobs:
         run: |
           sleep 5
           echo Lint complete
-      - name: Checks failure here
-        run: | npm install
