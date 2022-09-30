@@ -55,8 +55,3 @@ jobs:
         run: |
           sleep 5
           echo Lint complete
-      
-      - name: Linter complete
-        run: |
-          sleep 5
-          echo Lint complete  && false
