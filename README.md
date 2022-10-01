@@ -11,3 +11,4 @@ test
 
 Message Type 1
 Message Type 2
+Message Type 3
