@@ -10,3 +10,4 @@ test
 test
 
 Message Type 1
+Message Type 2
