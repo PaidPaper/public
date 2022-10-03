@@ -6,4 +6,3 @@ test
 
 smoke test p2
 test user
-err
