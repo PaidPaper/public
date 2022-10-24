@@ -1,4 +1,4 @@
 # public repo
-1111
-Test
+
+This is a public repository managed by PaidPaper. The code is based in Python. It has several GitHub actions.
 Test
