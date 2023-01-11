@@ -5,5 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
-    - name: Try to fail
+    - name: Fail right away
       run: exit 1
