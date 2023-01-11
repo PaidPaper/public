@@ -1,4 +1,4 @@
-name: example-workflow
+name: failed-workflow
 on: [pull_request]
 jobs:
   build:
