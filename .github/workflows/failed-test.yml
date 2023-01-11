@@ -1,0 +1,11 @@
+name: example-workflow
+on: [pull_request_target]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Fail right away
+      if: ${{ false }}
+      run: |
+        exit 1
