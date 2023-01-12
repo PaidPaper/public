@@ -14,3 +14,4 @@ pass now
 fail now 
 actually fail now
 fail without spaces
+fail without spaces
