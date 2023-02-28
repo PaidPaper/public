@@ -21,6 +21,10 @@ jobs:
       # Runs a single command using the runners shell
     - name: Simulated compile
       run: echo Compile
+    - name: Simulated compile
+      run: |
+        sleep 15
+        echo Compile
 
       # Runs a set of commands using the runners shell
     - name: Simulated test
