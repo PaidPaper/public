@@ -1,4 +1,4 @@
-name: failed-workflow
+name: neutral-workflow
 on: [pull_request]
 continue-on-error: true
 jobs:
