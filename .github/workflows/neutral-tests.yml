@@ -1,10 +1,13 @@
 name: neutral-workflow
 on: [pull_request]
-continue-on-error: true
 jobs:
-  build:
+  example_job:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - name: Fail right away
-      run: exit 1
+      - name: Continue on Error Step
+        run: echo "This step will always return a neutral conclusion."
+        continue-on-error: true
+        if: always()
+      - name: Failure step
+        run: echo "This step will only run if the previous step failed."
+        if: ${{ failure() }}
