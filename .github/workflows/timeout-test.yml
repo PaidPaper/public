@@ -3,9 +3,9 @@ on: [pull_request]
 jobs:
   timeout_job:
     runs-on: ubuntu-latest
-    timeout-minutes: 0.5
+    timeout-minutes: 1
     steps:
     - name: Timeout step
       run: |
-        sleep 60
+        sleep 120s
         echo "Hello, world!"
