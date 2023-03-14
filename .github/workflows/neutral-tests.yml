@@ -5,8 +5,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Find File
+        if: -f "my_list.txt"
         run: |
-          if grep -Fxq "$FILENAME" my_list.txt
+          if grep -Fxq "words" my_list.txt
           then
               exit 0
           else
