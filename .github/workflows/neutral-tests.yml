@@ -4,12 +4,9 @@ jobs:
   example_job:
     runs-on: ubuntu-latest
     steps:
-      - name: Find File
-        if: -f "my_list.txt"
-        run: |
-          if grep -Fxq "words" my_list.txt
-          then
-              exit 0
-          else
-              exit 1
-          fi
+       - name: Failing step
+         id: demo
+         run: exit 1
+       - name: The demo step has failed
+         if: ${{ failure() && steps.demo.conclusion == 'failure' }}
+
