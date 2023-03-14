@@ -4,10 +4,11 @@ jobs:
   example_job:
     runs-on: ubuntu-latest
     steps:
-      - name: Continue on Error Step
-        run: exit 1
-        continue-on-error: true
-        if: always()
-      - name: Failure step
-        run: echo "This step will only run if the previous step failed."
-        if: ${{ failure() }}
+      - name: Find File
+        run: |
+          if grep -Fxq "$FILENAME" my_list.txt
+          then
+              exit 0
+          else
+              exit 1
+          fi
