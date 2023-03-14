@@ -9,4 +9,6 @@ jobs:
       run: exit 1
     - name: The demo step has failed
       if: ${{ failure() && steps.demo.conclusion == 'failure' }}
-
+    - name: Close Stale Issues
+      uses: actions/stale@v7.0.0
+     
