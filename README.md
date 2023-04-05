@@ -1,3 +1,3 @@
-# public repo
+# README
 
-111111
+This repo contains testing and automation code for PaidPaper
