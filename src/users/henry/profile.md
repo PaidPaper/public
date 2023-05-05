@@ -1,2 +1,2 @@
 ### Henry's Profile
-Name: Henry
+Name: Henry Richard
