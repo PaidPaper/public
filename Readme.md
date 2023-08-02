@@ -1,6 +1,5 @@
 # public repo
-> Core Testing: Wed 5 Jul 23, 4:38PM OMAN
-123
+> Core Testing: Wed 5 Jul 23, 4:38PM OMA
 
 > Core Testing: Sun 9 Jul 23, 3:34PM 
 
