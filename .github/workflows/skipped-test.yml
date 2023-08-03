@@ -1,4 +1,4 @@
-name: example-workflow
+name: skipped-workflow
 on: [pull_request_target]
 jobs:
   production-deploy:
