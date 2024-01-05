@@ -33,7 +33,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Simulated test
         run: |
-          sleep 5
+          sleep 15
           echo Test complete
 
   lint:
