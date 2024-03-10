@@ -5,4 +5,5 @@ class Foo:
     print("Hello foo1")
     print("Hello foo3")
     print("Bert make nice change wow")
+    print("Bert make nice change wow")
     print("Hello foo4")
