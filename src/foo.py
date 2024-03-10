@@ -4,5 +4,5 @@ class Foo:
     print("Hello foo")
     print("Hello foo1")
     print("Hello foo3")
-    print("Bert make change")
+    print("Bert make nice change")
     print("Hello foo4")
